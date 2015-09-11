@@ -73,8 +73,7 @@ Before a new release, please go through the following checklist:
 * Git tag the version
 * Upload to pypi::
 
-    pip install -e .[packaging]
-    python setup.py sdist bdist_wheel upload
+    ./publish.sh
 
 * Increment the version to ``x.x-dev``
 

@@ -4,6 +4,8 @@
 .. image:: https://coveralls.io/repos/ambitioninc/container-transform/badge.png?branch=develop
     :target: https://coveralls.io/r/ambitioninc/container-transform?branch=develop
 
+.. image:: https://badge.fury.io/py/container-transform.svg
+    :target: http://badge.fury.io/py/container-transform
 
 
 container-transform
