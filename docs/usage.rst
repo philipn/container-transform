@@ -27,7 +27,7 @@ ECS Format
 
 `Amazon Documentation`_
 
-.. _Amazon Documentation: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_defintions.html
+.. _Amazon Documentation: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html
 
 Docker Compose Format
 ---------------------

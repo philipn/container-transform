@@ -43,7 +43,7 @@ v0.3
 
 * Added support for `volumesFrom`_ in ECS Task Definitions
 
-.. _volumesFrom: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_defintions.html#using_data_volumes
+.. _volumesFrom: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html#using_data_volumes
 
 v0.2
 ----
