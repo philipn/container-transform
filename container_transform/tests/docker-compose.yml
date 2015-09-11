@@ -60,7 +60,7 @@ logs:
     - '/var/log/nginx/:/var/log/nginx/:ro'
     - '/var/log/apache/:ro'
     - '/var/log/syslog/'
-    - '/should:/be:/ommitted'
+    - '/should:/be:/omitted'
 dummy:
   image: me/myapp
   entrypoint: ["noop", "param0"]
