@@ -1,8 +1,8 @@
-.. image:: https://travis-ci.org/ambitioninc/container-transform.png
-   :target: https://travis-ci.org/ambitioninc/container-transform
+.. image:: https://travis-ci.org/micahhausler/container-transform.png
+   :target: https://travis-ci.org/micahhausler/container-transform
 
-.. image:: https://coveralls.io/repos/ambitioninc/container-transform/badge.png?branch=develop
-    :target: https://coveralls.io/r/ambitioninc/container-transform?branch=develop
+.. image:: https://coveralls.io/repos/micahhausler/container-transform/badge.png?branch=develop
+    :target: https://coveralls.io/r/micahhausler/container-transform?branch=develop
 
 .. image:: https://badge.fury.io/py/container-transform.svg
     :target: http://badge.fury.io/py/container-transform
@@ -101,7 +101,7 @@ To install the latest release, type::
 
 To install the latest code directly from source, type::
 
-    pip install git+git://github.com/ambitioninc/container-transform.git
+    pip install git+git://github.com/micahhausler/container-transform.git
 
 Documentation
 -------------
