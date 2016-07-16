@@ -21,6 +21,7 @@ services:
     labels:
         - io.redis.name=redis
         - io.redis.novalue
+    privileged: true
   web2:
     build: .
     ports:

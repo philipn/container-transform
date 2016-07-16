@@ -277,7 +277,7 @@ ARG_MAP = {
     },
     'privileged': {
         TransformationTypes.ECS.value: {
-            'name': None,
+            'name': 'privileged',
             'required': False
         },
         TransformationTypes.COMPOSE.value: {
